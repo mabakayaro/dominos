@@ -26,3 +26,13 @@ Host github.com
 6) Cloner le repo sur la machine locale
 7) Créer le fichier journal
 8) Commit les changements 
+
+## 2022-09-08
+
+Mise en place des projets back et front
+avec axel pour le back
+et vue-cli pour le front
+
+// ! \\ Se faire un tuto sur comment mettre en place un JSON WEB Token
+https://openclassrooms.com/fr/courses/4087036-construisez-une-api-rest-avec-symfony/4377326-tutoriel-authentifier-et-autoriser-les-utilisateurs-de-lapi
+https://grafikart.fr/tutoriels/json-web-token-presentation-958
